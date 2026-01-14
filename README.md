@@ -1,16 +1,13 @@
-## Hi there 👋
+#  &nbsp;Hi There . . .
+**`Game Development Devlog`**
 
-<!--
-**Gappyjosuke/Gappyjosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sastha Ruban. I am documenting my daily journey of learning Blender and Unreal Engine 5 for my university final project. My goal is to move from a beginner level to a functional prototype by the end of the semester.
 
-Here are some ideas to get you started:
+This repository serves as a transparent record of my learning process, covering asset creation, engine implementation, and problem-solving.
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**References :**  All tutorial series and reference videos used for learning are cited in individual daily logs
+#
+This is fully dedicated to my final year work. Everything documented here is built from scratch with no external templates.
+
+[![GG's](https://skillicons.dev/icons?i=blender,unreal&perline=2)](https://skillicons.dev)
