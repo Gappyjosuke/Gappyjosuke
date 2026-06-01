@@ -17,5 +17,13 @@ Most of the things here are built mainly out of curiosity, experimentation, and 
 </div>
 
 #  
-[![GG's](https://skillicons.dev/icons?i=linux,bash,rust,cpp,blender,unreal&perline=3)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,git,github,c,rust\&perline=4)](https://skillicons.dev)
+#
+
+<div align="align">
+  <a href="https://www.linkedin.com/in/sastharuban">
+    <img src="https://img.shields.io/badge/LinkedIn-Sastha%20Ruban-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
+
 
