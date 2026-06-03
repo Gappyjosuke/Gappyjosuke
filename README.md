@@ -16,6 +16,23 @@ This repository is basically a collection of whatever I end up building during t
 Most of the things here are built mainly out of curiosity, experimentation, and the habit of wanting to understand how things actually work internally instead of only using them from the outside.
 
 #
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,c,rust" />
 
-# 
+<table>
+<tr>
+
+<td width="60%">
+
+<img src="./metrics.plugin.isocalendar.svg" />
+
+</td>
+
+<td width="40%">
+
+<img src="./github-metrics.svg" />
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,c,rust" />
