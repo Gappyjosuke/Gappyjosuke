@@ -20,13 +20,13 @@ Most of the things here are built mainly out of curiosity, experimentation, and 
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
 <img src="./metrics.plugin.isocalendar.svg" />
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
 <img src="./github-metrics.svg" />
 
