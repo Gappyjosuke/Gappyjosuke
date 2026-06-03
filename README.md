@@ -1,7 +1,7 @@
 <div align="justify">
   
 #  &nbsp;Hi There . . .
-**`Networking / Linux / Cybersecurity Devlog`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Networking+/+Linux+/+Cybersecurity+Devlog;)](https://git.io/typing-svg)
 
 I am U Sastha Ruban. Right now I spend most of my time learning networking, Linux, packet analysis, system internals, and cybersecurity concepts while slowly working toward my CCNA. Most of the things here are built while I’m actively learning, testing ideas, breaking things, fixing them again
 
@@ -14,10 +14,10 @@ This repository is basically a collection of whatever I end up building during t
 #
 <div align="justify">
 Most of the things here are built mainly out of curiosity, experimentation, and the habit of wanting to understand how things actually work internally instead of only using them from the outside.
-</div>
 
-#  
-[![Skills](https://skillicons.dev/icons?i=linux,bash,git,github,c,rust\&perline=4)](https://skillicons.dev)
+#
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,c,rust" />
+
 #
 
 <div align="align">
