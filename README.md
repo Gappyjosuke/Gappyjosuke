@@ -18,12 +18,4 @@ Most of the things here are built mainly out of curiosity, experimentation, and 
 #
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,c,rust" />
 
-#
-
-<div align="align">
-  <a href="https://www.linkedin.com/in/sastharuban">
-    <img src="https://img.shields.io/badge/LinkedIn-Sastha%20Ruban-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</div>
-
-
+# 
