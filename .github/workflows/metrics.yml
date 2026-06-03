@@ -14,6 +14,8 @@ jobs:
       contents: write
 
     steps:
+
+      # RIGHT SIDE — Base Metrics Card
       - name: Base Metrics
         uses: lowlighter/metrics@latest
 
@@ -24,8 +26,11 @@ jobs:
 
           user: Gappyjosuke
 
+          config_timezone: Asia/Kolkata
+
           base: header, activity
 
+      # LEFT SIDE — Isometric Contribution Calendar
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
 
@@ -37,6 +42,8 @@ jobs:
           user: Gappyjosuke
 
           base: ""
+
+          config_timezone: Asia/Kolkata
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
