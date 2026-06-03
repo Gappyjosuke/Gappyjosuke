@@ -14,17 +14,29 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Metrics
+      - name: Base Metrics
         uses: lowlighter/metrics@latest
 
         with:
+          filename: github-metrics.svg
 
           token: ${{ secrets.METRICS_TOKEN }}
+
           user: Gappyjosuke
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
+
+          base: header, activity
+
+      - name: Isometric Calendar
+        uses: lowlighter/metrics@latest
+
+        with:
           filename: metrics.plugin.isocalendar.svg
 
-          plugin_isocalendar: yes
+          token: ${{ secrets.METRICS_TOKEN }}
 
+          user: Gappyjosuke
+
+          base: ""
+
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
