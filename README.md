@@ -1,7 +1,7 @@
 <div align="justify">
   
 #  &nbsp;Hi There . . .
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Networking+/+Linux+/+Cybersecurity+Devlog;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2596be&center=false&vCenter=true&width=650&lines=Networking+/+Hobby+Game+Dev+/+Documentation;)](https://git.io/typing-svg)
 
 I am U Sastha Ruban. Right now I spend most of my time learning networking, Linux, packet analysis, system internals, and cybersecurity concepts while slowly working toward my CCNA. Most of the things here are built while I’m actively learning, testing ideas, breaking things, fixing them again
 
